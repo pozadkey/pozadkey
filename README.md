@@ -4,6 +4,7 @@ I\'m a self-taught software engineer who enjoys crafting web and mobile applicat
 
 ## Technologies and Tools
 
+<p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/-Dart-blue" />
 <img src="https://img.shields.io/badge/-Flutter-blue" />
@@ -13,7 +14,7 @@ I\'m a self-taught software engineer who enjoys crafting web and mobile applicat
 <img src="https://img.shields.io/badge/-Postman-red" />
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-
+</p>
 
 
 
