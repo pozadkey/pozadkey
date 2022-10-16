@@ -1,6 +1,4 @@
-## Damilare Ajakaiye 👋
-
-### Web & Mobile Engineer
+## Hi there! 👋
 
 I\'m a self-taught software engineer who enjoys crafting web and mobile applications on the internet using Javascript and Flutter. Having a good understanding of Flutter, HTML and CSS, I\'m able to build scaleable applications on the web and craft from development to deployment on Android and iOS platforms, while rendering server-side applications with Node.js. I\'m always on the look out for technical and professional opportunies to improve my skill-set and experience for building an outstanding User Experience.
 
