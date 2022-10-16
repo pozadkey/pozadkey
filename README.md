@@ -13,7 +13,7 @@ I\'m a self-taught software engineer who enjoys crafting web and mobile applicat
 <img src="https://img.shields.io/badge/-Firebase-yellow" />
 <img src="https://img.shields.io/badge/-Postman-red" />
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
 </p>
 
 
