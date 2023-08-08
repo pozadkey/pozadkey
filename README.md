@@ -6,8 +6,11 @@ Flutter & Backend Engineer
 
 I'm a self-taught software engineer who enjoys crafting web and mobile applications on the internet using Javascript and Flutter. Having a good understanding of Flutter, HTML and CSS, I'm able to build scaleable applications on the web and craft from development to deployment on Android and iOS platforms, while rendering server-side applications with Node.js. I'm always on the look out for technical and professional opportunies to improve my skill-set and experience for building an outstanding User Experience.
 
-*   🖥️  See my portfolio at [My Portfolio](http://pozadkey.com)
-*   ✉️  You can contact me at [hello@pozadkey.com](mailto:hello@pozadkey.com)### Skills 
+*   🖥️  [View My Portfolio](http://pozadkey.com)
+*   ✉️  You can contact me at [hello@pozadkey.com](mailto:hello@pozadkey.com)
+
+Skills
+--------------------------
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
