@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damilare Ajakaiye
 =========================================================================================================================================
 
-Flutter & Backend Engineer
+Web & Mobile Engineer
 --------------------------
 
-I'm a self-taught software engineer who enjoys crafting web and mobile applications on the internet using Javascript and Flutter. Having a good understanding of Flutter, HTML and CSS, I'm able to build scaleable applications on the web and craft from development to deployment on Android and iOS platforms, while rendering server-side applications with Node.js. I'm always on the look out for technical and professional opportunies to improve my skill-set and experience for building an outstanding User Experience.
+As a self-taught software engineer, I find great fulfillment in crafting web and mobile applications on the internet, harnessing the power of JavaScript, TypeScript, and Flutter. My proficiency in these technologies enables me to create scalable web applications and oversee the entire development-to-deployment process on both Android and iOS platforms. Additionally, I possess strong skills in building server-side applications using Node.js.
+
+I maintain a perpetual curiosity for new technical and professional opportunities, driven by my unwavering commitment to enhancing my skill set and broadening my experience in the pursuit of creating exceptional user experiences.
 
 *   🖥️  [View My Portfolio](http://pozadkey.com)
 *   ✉️  You can contact me at [hello@pozadkey.com](mailto:hello@pozadkey.com)
